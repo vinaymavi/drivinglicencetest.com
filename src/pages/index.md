@@ -1,9 +1,12 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: 'Take online practice test exam online free :)'
 image: /img/matt-duncan-127528-unsplash.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: >-
+  We would request to take all exams of start from 1 to 10 to improve your
+  driving rules knowledge that would help you to pass RTO exams and help to a
+  safe drive. 
 mainpitch:
   title: Why Kaldi
   description: >
